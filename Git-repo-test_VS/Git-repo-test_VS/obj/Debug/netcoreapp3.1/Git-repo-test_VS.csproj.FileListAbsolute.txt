@@ -1,0 +1,12 @@
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/obj/Debug/netcoreapp3.1/Git-repo-test_VS.csprojAssemblyReference.cache
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/obj/Debug/netcoreapp3.1/Git-repo-test_VS.AssemblyInfoInputs.cache
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/obj/Debug/netcoreapp3.1/Git-repo-test_VS.AssemblyInfo.cs
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/obj/Debug/netcoreapp3.1/Git-repo-test_VS.csproj.CoreCompileInputs.cache
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/bin/Debug/netcoreapp3.1/Git-repo-test_VS.deps.json
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/bin/Debug/netcoreapp3.1/Git-repo-test_VS.runtimeconfig.json
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/bin/Debug/netcoreapp3.1/Git-repo-test_VS.runtimeconfig.dev.json
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/bin/Debug/netcoreapp3.1/Git-repo-test_VS.dll
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/bin/Debug/netcoreapp3.1/Git-repo-test_VS.pdb
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/obj/Debug/netcoreapp3.1/Git-repo-test_VS.dll
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/obj/Debug/netcoreapp3.1/Git-repo-test_VS.pdb
+/Users/y3y0/git-repo/Git_repo_test_VS/Git-repo-test_VS/Git-repo-test_VS/obj/Debug/netcoreapp3.1/Git-repo-test_VS.genruntimeconfig.cache
