@@ -9,6 +9,7 @@ namespace Git_repo_test_VS
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Mi primer test con Git");
+            Console.WriteLine("Segundos cambios del proyecto");
         }
     }
 }
